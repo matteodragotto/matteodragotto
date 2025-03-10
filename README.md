@@ -5,23 +5,23 @@ Sono un **sviluppatore web** con esperienza nella creazione di applicazioni mode
 ## 🛠️ Tecnologie che utilizzo
 
 ### 🌐 Linguaggi di programmazione
-- <span style="background-color: #E34F26; color: white; padding: 2px 8px; border-radius: 5px;">HTML</span>
-- <span style="background-color: #1572B6; color: white; padding: 2px 8px; border-radius: 5px;">CSS</span>
-- <span style="background-color: #F7DF1E; color: black; padding: 2px 8px; border-radius: 5px;">JavaScript</span>
+- ![HTML](https://img.shields.io/badge/HTML-Orange?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ⚙️ Frameworks e Librerie
-- <span style="background-color: #61DAFB; color: black; padding: 2px 8px; border-radius: 5px;">React</span>
-- <span style="background-color: #000000; color: white; padding: 2px 8px; border-radius: 5px;">Express</span>
-- <span style="background-color: #5A29CC; color: white; padding: 2px 8px; border-radius: 5px;">Axios</span>
-- <span style="background-color: #7952B3; color: white; padding: 2px 8px; border-radius: 5px;">Bootstrap</span>
-- <span style="background-color: #339933; color: white; padding: 2px 8px; border-radius: 5px;">Node.js</span>
-- <span style="background-color: #06B6D4; color: white; padding: 2px 8px; border-radius: 5px;">Tailwind CSS</span>
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+- ![Axios](https://img.shields.io/badge/Axios-5A29CC?style=for-the-badge&logo=axios&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 🗄️ Database
-- <span style="background-color: #4479A1; color: white; padding: 2px 8px; border-radius: 5px;">MySQL</span>
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📦 Package Manager
-- <span style="background-color: #CB3837; color: white; padding: 2px 8px; border-radius: 5px;">NPM</span>
+- ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ## 🔧 Come lavoro
 
