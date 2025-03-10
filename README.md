@@ -1,47 +1,37 @@
 # Ciao, sono Matteo 👋
 
-Sono un **sviluppatore web** appassionato di tecnologie moderne. Mi piace creare applicazioni web innovative utilizzando le tecnologie più recenti.
+Sono un **sviluppatore web** con esperienza nella creazione di applicazioni moderne e responsive. Mi piace imparare nuove tecnologie e affrontare nuove sfide.
 
 ## 🛠️ Tecnologie che utilizzo
 
-Ecco un elenco delle tecnologie e degli strumenti che conosco.
-
 ### 🌐 Linguaggi di programmazione
-| Linguaggio  | Colore      |
-|-------------|-------------|
-| HTML        | ![#E34F26](https://placehold.it/15/E34F26/000000?text=+) HTML |
-| CSS         | ![#1572B6](https://placehold.it/15/1572B6/000000?text=+) CSS  |
-| JavaScript  | ![#F7DF1E](https://placehold.it/15/F7DF1E/000000?text=+) JavaScript |
+- <span style="background-color: #E34F26; color: white; padding: 2px 8px; border-radius: 5px;">HTML</span>
+- <span style="background-color: #1572B6; color: white; padding: 2px 8px; border-radius: 5px;">CSS</span>
+- <span style="background-color: #F7DF1E; color: black; padding: 2px 8px; border-radius: 5px;">JavaScript</span>
 
 ### ⚙️ Frameworks e Librerie
-| Tecnologia     | Colore      |
-|----------------|-------------|
-| React          | ![#61DAFB](https://placehold.it/15/61DAFB/000000?text=+) React |
-| Express        | ![#000000](https://placehold.it/15/000000/000000?text=+) Express |
-| Axios          | ![#5A29CC](https://placehold.it/15/5A29CC/000000?text=+) Axios |
-| Bootstrap      | ![#7952B3](https://placehold.it/15/7952B3/000000?text=+) Bootstrap |
-| Node.js        | ![#339933](https://placehold.it/15/339933/000000?text=+) Node.js |
-| Tailwind CSS   | ![#06B6D4](https://placehold.it/15/06B6D4/000000?text=+) Tailwind CSS |
+- <span style="background-color: #61DAFB; color: black; padding: 2px 8px; border-radius: 5px;">React</span>
+- <span style="background-color: #000000; color: white; padding: 2px 8px; border-radius: 5px;">Express</span>
+- <span style="background-color: #5A29CC; color: white; padding: 2px 8px; border-radius: 5px;">Axios</span>
+- <span style="background-color: #7952B3; color: white; padding: 2px 8px; border-radius: 5px;">Bootstrap</span>
+- <span style="background-color: #339933; color: white; padding: 2px 8px; border-radius: 5px;">Node.js</span>
+- <span style="background-color: #06B6D4; color: white; padding: 2px 8px; border-radius: 5px;">Tailwind CSS</span>
 
 ### 🗄️ Database
-| Database   | Colore      |
-|------------|-------------|
-| MySQL      | ![#4479A1](https://placehold.it/15/4479A1/000000?text=+) MySQL |
+- <span style="background-color: #4479A1; color: white; padding: 2px 8px; border-radius: 5px;">MySQL</span>
 
 ### 📦 Package Manager
-| Strumento  | Colore      |
-|------------|-------------|
-| NPM        | ![#CB3837](https://placehold.it/15/CB3837/000000?text=+) NPM |
+- <span style="background-color: #CB3837; color: white; padding: 2px 8px; border-radius: 5px;">NPM</span>
 
 ## 🔧 Come lavoro
 
 - Utilizzo **Git** per il controllo versione e collaboro con i team tramite **GitHub**.
-- Creare applicazioni web moderne, intuitive e reattive è la mia passione.
-- Mi piace risolvere problemi complessi e imparare continuamente nuove tecnologie.
+- Amo creare applicazioni web moderne con un'interfaccia utente fluida e funzionale.
+- Sempre pronto a imparare nuove tecnologie e migliorare le mie competenze.
 
 ## 📫 Come contattarmi
 
-Puoi contattarmi su [LinkedIn](https://www.linkedin.com/in/tuo-nome) o inviarmi un'email a [tuo.email@example.com].
+Puoi contattarmi su www.linkedin.com/in/matteo-dragotto o inviarmi un'email a [tuo.email@example.com].
 
 ---
 
