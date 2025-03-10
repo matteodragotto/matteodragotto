@@ -1,13 +1,13 @@
-# Ciao, sono Matteo 👋
+# Hi, I'm Matteo 👋
 
-Sono un **sviluppatore web** con esperienza nella creazione di applicazioni moderne e responsive. Mi piace imparare nuove tecnologie e affrontare nuove sfide.
+I am a **web developer** with experience in creating modern and responsive applications. I enjoy learning new technologies and taking on new challenges.
 
-## 🛠️ Tecnologie che utilizzo
+## 🛠️ Technologies
 
-### 🌐 Linguaggi di programmazione
+### 🌐 Programming Languages
 ![HTML](https://img.shields.io/badge/HTML-Orange?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Frameworks e Librerie
+### ⚙️ Frameworks and Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29CC?style=for-the-badge&logo=axios&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 🗄️ Database
@@ -16,18 +16,17 @@ Sono un **sviluppatore web** con esperienza nella creazione di applicazioni mode
 ### 📦 Package Manager
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-## 🔧 Come lavoro
+## 🔧 How I work
 
-- Utilizzo **Git** per il controllo versione e collaboro con i team tramite **GitHub**.
-- Amo creare applicazioni web moderne con un'interfaccia utente fluida e funzionale.
-- Sempre pronto a imparare nuove tecnologie e migliorare le mie competenze.
+- I use **Git** for version control and collaborate with teams via **GitHub**.
+- I love building modern web applications with a smooth and functional user interface.
+- Always eager to learn new technologies and improve my skills.
 
-## 📫 Come contattarmi
+## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-dragotto/)
 
-[tuo.email@example.com].
-
 ---
 
-Grazie per aver visitato il mio profilo!
+Thanks for visiting my profile!
+
