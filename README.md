@@ -24,8 +24,9 @@ Sono un **sviluppatore web** con esperienza nella creazione di applicazioni mode
 
 ## 📫 Come contattarmi
 
-Puoi contattarmi su [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-dragotto/)
- o inviarmi un'email a [tuo.email@example.com].
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-dragotto/)
+
+[tuo.email@example.com].
 
 ---
 
